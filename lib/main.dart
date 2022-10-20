@@ -1,5 +1,4 @@
 import 'package:auto_route_test/auto_route.gr.dart';
-import 'package:auto_route_test/dashboard_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
